@@ -1,0 +1,274 @@
+Mozilla Public License Version 2.0
+==================================
+
+1. Definitions
+--------------
+
+1.1. "Contributor"
+    means each individual or legal entity that creates, contributes to
+    the creation of, or owns Covered Software.
+
+1.2. "Contributor Version"
+    means the combination of the Contributions of others (if any) used
+    by a Contributor and that particular Contributor's Contribution.
+
+1.3. "Contribution"
+    means Covered Software of a particular Contributor.
+
+1.4. "Covered Software"
+    means Source Code Form to which the initial Contributor has attached
+    the notice in Exhibit A, the Executable Form of such Source Code
+    Form, and Modifications of such Source Code Form, in each case
+    including portions thereof.
+
+1.5. "Incompatible With Secondary Licenses"
+    means
+    (a) that the initial Contributor has attached the notice described in
+        Exhibit B to the Covered Software; or
+    (b) that the Covered Software was made available under the terms of
+        version 1.1 or earlier of the License, but not also under the
+        terms of a Secondary License.
+
+1.6. "Executable Form"
+    means any form of the work other than Source Code Form.
+
+1.7. "Larger Work"
+    means a work that combines Covered Software with other material, in
+    a separate file or files, that is not Covered Software.
+
+1.8. "License"
+    means this document.
+
+1.9. "Licensable"
+    means having the right to grant, to the maximum extent possible,
+    whether at the time of the initial grant or subsequently, any and
+    all of the rights conveyed by this License.
+
+1.10. "Modifications"
+    means any of the following:
+    (a) any file in Source Code Form that results from an addition to,
+        deletion from or modification of the contents of Covered
+        Software; or
+    (b) any new file in Source Code Form that contains any part of
+        Covered Software.
+
+1.11. "Patent Claims" of a Contributor
+    means any patent claim(s), including without limitation the right
+    to claim damages as stated in Section 11(b) of this License, held by
+    such Contributor that are necessarily infringed by their
+    Contribution(s) alone or by combination of their Contribution(s)
+    with the Contributions of others.
+
+1.12. "Secondary License"
+    means any license of the Covered Software that, after giving
+    effect to its terms and conditions, places provisions on the
+    Covered Software that are incompatible with the Conditions and
+    limitations in Section 3 of this License.
+
+1.13. "Source Code Form"
+    means the form of the work that is preferred for making
+    modifications.
+
+1.14. "You" (or "Your")
+    means an individual or a legal entity exercising rights under this
+    License. For legal entities, "You" includes any entity that
+    controls, is controlled by, or is under common control with You. For
+    purposes of this definition, "control" means (a) the power, direct
+    or indirect, to cause the direction or management of such entity,
+    whether by contract or otherwise, or (b) ownership of fifty percent
+    (50%) or more of the outstanding shares or beneficial ownership of
+    such entity.
+
+2. Grant of Rights
+------------------
+
+2.1. Grants
+
+Each Contributor hereby grants You a world-wide, royalty-free,
+non-exclusive license:
+
+(a) under intellectual property rights (other than patent or trademark)
+    to reproduce, modify, display, perform, sublicense, and distribute
+    the Modifications created by such Contributor either on an unmodified
+    basis, with other Modifications, as Covered Software and/or as part
+    of a Larger Work; and
+
+(b) under Patent Claims of such Contributor to make, use, sell, offer
+    for sale, have made, import, and otherwise transfer either on an
+    unmodified basis or as part of Modifications.
+
+2.2. Effective Date
+
+The licenses granted in Section 2.1 with respect to any Contribution
+become effective for each Contribution on the date the Contributor first
+distributes or makes the Contribution available to the public.
+
+2.3. Limitations on Grant Scope
+
+The licenses granted in this Section 2 are the only rights granted under
+this License. No additional rights or licenses will be implied from the
+distribution or licensing of Covered Software under this License.
+Notwithstanding Section 2.1(b) above, no patent license is granted by a
+Contributor:
+
+(a) for any code that a Contributor has removed from Covered Software;
+    or
+
+(b) for infringements caused by: (i) Your and any other third party's
+    modifications of Covered Software, or (ii) the combination of its
+    Contributions with other software (except as part of its
+    Contributor Version); or
+
+(c) under Patent Claims infringed by Covered Software in the absence of
+    its Contributions.
+
+This License does not grant any licenses to the intellectual property of
+any Contributor except as expressly stated in this Section 2. No
+Contributor makes additional grants as a result of Your choice to
+distribute the Covered Software under a subsequent version of this
+License (see Section 10.2) or under the terms of a Secondary License (if
+permitted under the terms of Section 3.3).
+
+2.4. Subsequent Licenses
+
+After You obtain Covered Software, You may choose to distribute the
+Covered Software under a subsequent version of the License (if one is
+available) or under the terms of a Secondary License (if permitted under
+the terms of Section 3.3). If the Covered Software was distributed under
+the terms of version 1.1 or earlier of the License, You may also choose
+to distribute it under the terms of a Secondary License, if the
+Contributor has attached the notice described in Exhibit B to the
+Covered Software.
+
+2.5. Representation
+
+Each Contributor represents that the Contributor believes the
+Contribution was created in a way that is compliant with applicable
+laws related to software development, including applicable patent and
+copyright laws, and that the Contribution is not believed to infringe
+any patent or copyright.
+
+2.6. Fair Use
+
+This License does not grant permission to use the trade names, trade
+marks, service marks, or product names of the Licensor and its
+affiliates, except as required to comply with Section 4(c) of the
+License and to reproduce the content of the NOTICE file.
+
+3. Conditions and Limitations
+------------------------------
+
+3.1. Conditions
+
+You must ensure that all Modified Files include any changes needed to
+run those files on hardware for which the Covered Software is intended.
+You must ensure that all Executable Form files include any changes needed
+to run those files on hardware for which the Covered Software is
+intended.
+
+3.2. Additional Terms
+
+(a) All distribution of Covered Software in Source Code Form,
+    including any Modifications that You create or to which You
+    contribute, must contain a file at the top level called LICENSE.
+    This LICENSE file must contain the text of this License verbatim,
+    without modification.  You may add additional licenses after the
+    NOTICE file, but You may not modify the text of the NOTICE file.
+
+(b) You must cause all Covered Software to which You contribute to
+    contain a file documentation of the changes You made to create that
+    Covered Software and the date of any change. You must make that file
+    contain a description of the changes and the name, email address, and
+    (optional) postal address of the Contributor. You must also require
+    that all such changes be subject to the Conditions of this License.
+
+(c) You must cause any modified files to carry prominent notices
+    stating that You changed the files and the date of any change.
+
+(d) You must cause all Covered Software that You distribute or
+    otherwise make available to be licensed under the terms of this
+    License, including any Contributions obtained from that Covered
+    Software.
+
+(e) The licenses granted in Section 2 of this License must be
+    subordinate to the terms of this License.
+
+3.3. Availability of Source Code
+
+Any Executable Form of the Covered Software and its dependencies,
+including any Modified Versions, must also include the Source Code Form
+of the same.
+
+3.4. Description of Modifications
+
+You must cause any Modified Versions of the Covered Software to carry
+prominent notices stating that it has been modified.
+
+3.5. Application of Additional Terms
+
+You may choose to distribute Covered Software under a Secondary License,
+such that the additional rights granted under such Secondary License
+are in addition to (and not in place of) the rights granted under this
+License.
+
+4. Verbatim Copies of this License
+----------------------------------
+
+You must include a copy of this License & the list of conditions and
+limitation between the document.
+
+5. DISCLAIMER OF WARRANTY
+-------------------------
+
+Covered Software is provided under this License on an "as is" basis,
+without warranty of any kind, either expressed, implied, or statutory,
+including, without limitation, warranties that the Covered Software is
+free of defects, merchantable, fit for a particular purpose or
+non-infringing.
+
+6. LIMITATION OF LIABILITY
+---------------------------
+
+<|cursor|>
+Under no circumstances and under no legal theory, whether tort (including
+negligence), contract, or otherwise, shall any Contributor, or anyone who
+distributes Covered Software, be liable to You for any direct, indirect,
+special, incidental, or consequential damages of any character including,
+without limitation, damages for lost profits, loss of goodwill, work
+stoppage, computer failure or malfunction, or any and all other
+commercial damages or losses, even if such party shall have been
+informed of the possibility of such damages. This limitation of
+liability shall not apply to liability for death or personal injury
+resulting from such party's gross negligence to the extent applicable
+law prohibits such limitation. Some jurisdictions do not allow the
+exclusion or limitation of incidental or consequential damages, so
+this exclusion and limitation may not apply to You.
+
+7. U.S. GOVERNMENT END USERS
+
+The Covered Software is a "commercial item," as that term is defined in
+48 C.F.R. 2.101 (Oct. 1995), consisting of "commercial computer software"
+and "commercial computer software documentation," as such terms are used
+in 48 C.F.R. 12.212 (Sept. 1995). Consistent with 48 C.F.R. 12.212 and
+48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995), all U.S.
+Government End Users acquire Covered Software with only those rights
+set forth herein.
+
+8. MISCELLANEOUS
+
+This License represents the complete agreement concerning subject
+matter hereof. If any provision of this License is held to be
+unenforceable, such provision shall be reformed only to the extent
+necessary to make it enforceable. Any law or regulation which provides
+that the language of a contract shall be construed against the drafter
+shall not be used to construe this License against a Contributor.
+
+9. RESPONSIBILITY FOR CLAIMS
+
+Except as required in Section 4(b) and as required to obtain patents,
+each Contributor must defend and indemnify the other Contributors
+("Indemnified Contributors") against any claim, demand, suit, or
+proceeding arising out of, or directly or indirectly related to, a
+Contribution or Covered Software from such Contributor. The defense and
+indemnification obligations under this Section 9 are incurred to the
+extent allowed under applicable law.
