@@ -1,6 +1,6 @@
 namespace minimalapi.Entities;
 
-public class Vehicle
+public class Car
 {
     public int Id { get; set; }
     public required string Make { get; set; }
