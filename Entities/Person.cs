@@ -11,4 +11,25 @@ public class Person
     {
         return $"{FirstName} {LastName}";
     }
+
+    public override string ToString()
+    {
+        return $"{Id}: {FirstName} {LastName} ({Email})";
+    }
+
+    public override bool Equals(object? obj)
+    {
+        if (obj is not Person other)
+            return false;
+
+        return Id == other.Id &&
+               FirstName == other.FirstName &&
+               LastName == other.LastName &&
+               Email == other.Email;
+    }
+
+    public override int GetHashCode()
+    {
+        throw new NotImplementedException();
+    }
 }
