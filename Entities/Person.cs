@@ -11,4 +11,9 @@ public class Person
     {
         return $"{FirstName} {LastName}";
     }
+
+    public override string ToString()
+    {
+        return $"{Id}: {FullName()} ({Email})";
+    }
 }
