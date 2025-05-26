@@ -14,4 +14,10 @@ public class Signature
     {
         throw new NotImplementedException("Validation logic is not implemented yet.");
     }
+
+    //TODO: Implement a method to convert the signature to a string representation
+    public override string ToString()
+    {
+        throw new NotImplementedException("Conversion logic is not implemented yet.");
+    }
 }
