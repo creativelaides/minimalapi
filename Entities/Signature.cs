@@ -7,4 +7,11 @@ public class Signature
     public string? Description { get; set; }
     public string? ImageUrl { get; set; }
     public string? Category { get; set; }
+
+
+    //TODO: Implement validation logic
+    public void Validate()
+    {
+        throw new NotImplementedException("Validation logic is not implemented yet.");
+    }
 }
