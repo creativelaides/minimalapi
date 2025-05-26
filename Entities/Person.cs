@@ -14,7 +14,8 @@ public class Person
 
     public override string ToString()
     {
-        return $"{Id}: {FirstName} {LastName} ({Email})";
+        return $"{Id}: {FullName()} ({Email})";
+
     }
 
     public override bool Equals(object? obj)
