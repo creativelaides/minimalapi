@@ -31,6 +31,6 @@ public class Person
 
     public override int GetHashCode()
     {
-        throw new NotImplementedException();
+        return HashCode.Combine(Id, FirstName, LastName, Email);
     }
 }
