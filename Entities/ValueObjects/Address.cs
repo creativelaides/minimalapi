@@ -1,4 +1,4 @@
-namespace minimalapi.Entities;
+namespace minimalapi.Entities.ValueObjects;
 
 public record Address
 {
