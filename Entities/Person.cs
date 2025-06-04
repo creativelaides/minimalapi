@@ -1,4 +1,6 @@
-﻿namespace minimalapi.Entities;
+﻿using minimalapi.Entities.ValueObjects;
+
+namespace minimalapi.Entities;
 
 public class Person
 {
