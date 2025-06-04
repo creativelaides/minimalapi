@@ -7,6 +7,9 @@ public class Person
     public required string LastName { get; set; }
     public string? Email { get; set; }
 
+    public Phone? Phone { get; set; }
+    public Address? Address { get; set; }
+
     public string FullName()
     {
         return $"{FirstName} {LastName}";
