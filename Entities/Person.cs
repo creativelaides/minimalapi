@@ -2,12 +2,12 @@
 
 namespace minimalapi.Entities;
 
-public class Person
+public class Person(int id, string firstName, string lastName, string email)
 {
-    public int Id { get; set; }
-    public required string FirstName { get; set; }
-    public required string LastName { get; set; }
-    public string? Email { get; set; }
+    public int Id { get; set; } = id;
+    public required string FirstName { get; set; } = firstName;
+    public required string LastName { get; set; } = lastName;
+    public string? Email { get; set; } = email;
 
     public Phone? Phone { get; set; }
     public Address? Address { get; set; }
