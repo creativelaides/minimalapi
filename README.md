@@ -5,6 +5,9 @@ Este repositorio está destinado a pruebas y experimentación. hace parte fundam
 ## Actualización desde local reemplazando la de GitHub 🐺
 Esta es una actualización desde la PC local para reemplazar la información de GitHub.
 
+## Otro cambio adicional desde GitHub
+Se añade un cambio adicional desde github.
+
 ## Estructura del Repositorio
 
 - `/src`: Contiene el código fuente de los proyectos de prueba.
