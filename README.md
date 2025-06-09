@@ -2,6 +2,9 @@
 
 Este repositorio está destinado a pruebas y experimentación. hace parte fundamental de un proyecto de minimal API de .NET en un curso de Fernando Herrera. Aquí puedes encontrar ejemplos y prototipos que pueden no estar completamente desarrollados o finalizados. Siéntete libre de explorar y contribuir.
 
+##Actualización de GitHub
+Esta es una actualización desde Github
+
 ## Estructura del Repositorio
 
 - `/src`: Contiene el código fuente de los proyectos de prueba.
