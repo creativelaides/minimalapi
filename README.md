@@ -7,6 +7,8 @@ Esta es una actualización desde la PC local para reemplazar la información de 
 
 ## Otro cambio adicional desde GitHub
 Se añade un cambio adicional desde github.
+## Estos son cambio nuevos desde mi repositorio local
+Cambios nuevos desde mi repositorio local.
 
 ## Estructura del Repositorio
 
