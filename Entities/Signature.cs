@@ -8,13 +8,6 @@ public class Signature
     public string? ImageUrl { get; set; }
     public string? Category { get; set; }
 
-
-    //TODO: Implement validation logic
-    public void Validate()
-    {
-        throw new NotImplementedException("Validation logic is not implemented yet.");
-    }
-
     public override string ToString()
     {
         return $"Signature: {Name}, Description: {Description}, Category: {Category}";
