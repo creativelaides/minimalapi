@@ -8,9 +8,4 @@ public class Vehicle(string vim, string make, Person owner, string model, int ye
 
     public string Model { get; set; } = model;
     public int Year { get; set; } = year;
-    
-    public override string ToString()
-    {
-        return $"{Vim}, {Make}, {Owner.FullName()}, {Model}, {Year}"; 
-    }
 }
